@@ -1,23 +1,17 @@
-# Oregon Trail Race
-
-These are completely alternate rules for the Oregon Trail card game which significantly improve its playability.  With these rules it is a competitive, rather than a cooperative, game and  involves a little more strategy, though there is still a fair amount of chance in the gameplay.  These new set of rules work with the supplies in the original game.
-
-The only thing that needs to be added are player markers.  So, grab your Monopoly set or any other game and borrow some player markers.  Anything that is not larger than half the size of the cards and is unique for each player will work.
-
-Each player is driving their own separate wagon on their own trail to Oregon.  Each player starts with 4 virtual people in their wagon.  If all your people die, you are out of the game.  The first player to successfully navigate their wagon to Oregon (and mend any calamities) wins.  The length of the road to Oregon can be adjusted to make the game longer or shorter.  20 to 25 trail segments is a good number, just agree ahead of time.
-
 ## Set Up
 
 Put Independence, MO at one end of the table, and Willamette Valley, OR at the other end and place all the player markers on the Independence, MO card.  Place the cards perpendicular to the direction of play.
 
 Supply cards should be shuffled and set up as the supply deck, trail cards as the trail deck, and calamity cards as the calamity deck.
 
+![Setup](/images/setup.jpg)
+
 Each player is dealt 5 trail cards and a number of supply cards.
    * 5+ players: 3 supply cards each
    * 3-4 players: 4 supply cards each
    * 2 players: 6 supply cards each
 
-Use the tombstone card and pen to track stats for each player, such as the number of virtual people left alive in their wagon and the number of turns they have to resolve a calamity.  This score keeping can require a little bit of focus (especially when someone has 8 turns to do something) so it generally makes sense to have one person be the score keeper and be responsible for keeping track of counting down these various counters.
+Use the tombstone card and pen to track stats for each player, such as the number of virtual people left alive in their wagon and the number of turns they have to resolve a calamity.  This score keeping can require a little bit of focus (especially when someone has 8 turns to do something) so it generally makes sense to have one person be the score keeper and be responsible for keeping track of counting down these various counters. For now, write down each player name and mark that they have 4 wagon members in such a way that they can removed one by one.  (Perhaps little stick figures that can be erased, or just circles that can be crossed out.)
 
 ## On Your Turn
 
@@ -110,23 +104,3 @@ If all the virtual people in your wagon die, then you are out of the game.
 To win you must get to Oregon and have no active calamities.  If you get there with calamities, you have to take the necessary number of turns using the "Mend Any Calamity" action to mend them before you can claim victory.  You win the race!
 
 How long a trail it takes to get to Oregon can be adjusted for length of game, but 20 trail cards is a good starting point.  When counting the length of trail, towns and forts do not count in the length.
-
-# Calamity Details
-
-Calamity | Description | Remedy
- --- | --- | ---
-![Broken Tongue](/images/broken_tongue.jpg?raw=true) ![Broken Axle](/images/broken_axle.jpg?raw=true) ![Broken Wheel](/images/broken_wheel.jpg?raw=true) | *Broken Tongue or Broken Axle or Broken Wheel*<br>When the calamity is played on you, immediately roll the die.  On a 4, 5, or 6 the calamity is discarded and does not affect you.  On a 1, 2, or 3 you receive the calamity and can no longer use the "Forge a New Trail" action.  You have as many turns as you have people in your wagon to mend the calamity or your entire wagon party dies and you are out of the game.  The calamity can be mended by a spare parts supply, or by going back to the last town and using the "Mend Any Calamity" action in a fort / town. | ![Spare Parts](/images/spare_parts.jpg?raw=true)
-![]() | *Dead Oxen*<br>You can no longer use the "Forge a New Trail" action, and you have as many turns after receiving this calamity as there are people in your wagon to mend it.  If you do not, your entire wagon party dies and you are out of the game.  To mend it, you need 1 oxen supply, or use the "Mend Any Calamity" action in a fort / town. |  ![]()
-![]() | *Inadequate Grass*<br>Has no effect as long as the other Inadequate Grass card is not played on someone.  It can only be mended by the "Mend Any Calamity" action in a town / fort.  If the other Inadequate Grass card comes up, both players, including the one that just got the calamity now have dead oxen.  You both can no longer use the "Forge a New Trail" action, and you each have as many turns after receiving this calamity as there are people in your respective wagons to mend it.  If you do not, your entire wagon party dies and you are out of the game.  To mend it, you need 1 oxen supply, or use the "Mend Any Calamity" action in a fort / town. | ![]()
-![]() | *Bad Water*<br>Has no effect as long as the other Bad Water card is not played on someone.  It can be mended by a Clean Water supply or the "Mend Any Calamity" action in a town / fort.  If the other Bad Water card comes up, both players, including the one that just got the calamity now have dead oxen.  You both can no longer use the "Forge a New Trail" action, and you each have as many turns after receiving this calamity as there are people in your respective wagons to mend it.  If you do not, your entire wagon party dies and you are out of the game.  To mend it, you need 1 oxen supply, or use the "Mend Any Calamity" action in a fort / town. | ![]()
-![]() | *Measles*<br>If you have a medicine supply card (or successfully "trade" for one), then you can discard this calamity (and the supply card) as soon as it is given to you without it costing you a turn to deal with.  If you are trading supply cards to do this (because you don't have a medicine supply card) and the trade fails, you can try again if you want until you succeed or run out of supply cards.<br>If you don"t avoid the calamity when it is given, then you lose your next turn.  On any turn after that, you can mend the calamity with a medicine supply or by using the "Mend Any Calamity" action at a fort / town.  If the other Measles card is played on any player before you have mended this one, then you lose a person from your wagon, and the other player that just received the second Measles card (whether that is you or another player) also loses a person from their wagon unless they successfully deflect the calamity with a medicine card (or trading for a medicine card). | ![]()
-![]() | *Typhoid*<br>You have as many turns after receiving this calamity as there are people in your wagon to mend it.  If you do not, you lose one of the people in your wagon.  To mend it, you need 1 clean water supply and 1 medicine supply, or use the "Mend Any Calamity" action in a fort / town. | ![]()
-![]() | *Cholera*<br>Has no ill effect on you until the other Cholera card comes up.  To mend it, use 2 medicine cards or the "Mend Any Calamity" action at a fort / town.  If the other Cholera card is played on any player before you have mended this one, then you lose a person from your wagon, and the other player that just received the second Cholera card (whether that is you or another player) also loses a person from their wagon. | ![]()
-![]() | *Dysentery*<br>You lose one virtual person from your wagon.  Nothing to do about it. | ![]()
-![]() | *Snake Bite*<br>You lose one virtual person from your wagon.  Nothing to do about it. | ![]()
-![]() | *Starvation*<br>You have as many turns after receiving this calamity as there are people in your wagon TIMES TWO to mend it.  If you do not, you lose one of the people in your wagon.  To mend it, you need a food supply, or use the "Mend Any Calamity" action in a fort / town. | ![]()
-![]() | *Extreme Cold*<br>You have as many turns after receiving this calamity as there are people in your wagon to mend it.  If you do not, you lose one of the people in your wagon.  To mend it, you need a clothing supply, or use the "Mend Any Calamity" action in a fort / town. | ![]()
-![]() | *Broken Arm*<br>You may not take any action (including attempting to ford a river) on your next two turns.  Any turn based count-downs for other calamities still count down. | ![]()
-![]() | *Thief*<br>The player you selected for the calamity must fan out their supply cards and allow you to draw one at random.  Except, if they have the bullets supply card, they can instead show that to you and discard it and then you don't get anything.  (Potential variants: you show the bullets but keep them, or you discard the bullets and don't get stolen from, but the thief also dies, meaning that the player that played the calamity on you loses a member of their wagon party.) | ![]()
-![]() | *Food*<br>If you have a bullets supply card you can discard it and collect a food supply card from the supply deck.  After doing so, reshuffle the supply deck.  If you do not have bullets, or don't want to use them, then this calamity has no effect. | ![]()
-
