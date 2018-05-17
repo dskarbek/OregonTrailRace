@@ -50,4 +50,4 @@ One of my initial goals was to avoid players being removed from the game.  Curre
 
 
 
-[rules]: /rules/rules.md
+[rules]: docs/rules.md

@@ -98,9 +98,9 @@ How long a trail it takes to get to Oregon can be adjusted for length of game, b
 
 
 [trails]: trails.md
-[setup]: /images/setup.jpg
-[parallel_play]: /images/parallel_play.jpg
-[town]: /images/town.jpg
-[past_town]: /images/past_town.jpg
-[pruning_trail]: /images/pruning_trail.jpg
-[making_room]: /images/making_room.jpg
+[setup]: images/setup.jpg
+[parallel_play]: images/parallel_play.jpg
+[town]: images/town.jpg
+[past_town]: images/past_town.jpg
+[pruning_trail]: images/pruning_trail.jpg
+[making_room]: images/making_room.jpg
