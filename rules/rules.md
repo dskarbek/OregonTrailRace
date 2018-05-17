@@ -4,7 +4,7 @@ Put Independence, MO at one end of the table, and Willamette Valley, OR at the o
 
 Supply cards should be shuffled and set up as the supply deck, trail cards as the trail deck, and calamity cards as the calamity deck.
 
-![Setup](/images/setup.jpg)
+![Setup]
 
 Each player is dealt 5 trail cards and a number of supply cards.
    * 5+ players: 3 supply cards each
@@ -18,10 +18,10 @@ Because you are allowed to move back and forth on your trail, it is highly recom
 ## On Your Turn
 
 Each player plays their own trail in parallel to the other players.
-![](/images/parallel_play.jpg)
+![][parallel_play]
 
 The only exception is Town and Fort cards which are laid down sideways and are part of every player's trail (all players get to use the Town / Fort), more on that later.
-![](/images/town.jpg)
+![][town]
 
 On your turn, you may do ONE of the following actions:
    * Scout the road ahead -- draw a trail card
@@ -43,7 +43,7 @@ As long as you are at the front of your current trail and have a working wagon w
 
 When you place a new trail card, your marker automatically moves to the front of it, unless it is a river card. You have to ford the river (taking as many actions / turns as necessary) before you can do any other action.  The calamity cards allow you to play a calamity on someone else.  Forts and towns are available to all trails once played.
 
-[Click HERE for more details on the play of the various trail cards, including what exactly happens with Towns and Forts](/rules/trails.md)
+[Click HERE for more details on the play of the various trail cards, including what exactly happens with Towns and Forts][trails]
 
 ### Mending Calamities
 
@@ -80,13 +80,13 @@ Especially with lots of players the trail and supply cards can run low pretty qu
 Trail cards need to be collected by shifting the trails back and picking up the played trail cards once all players have passed that point in the trail and will not be returning to them.  The best way to do this is to trim the trail laid before a town once all players have passed the town.  There's no reason for anyone to travel back before the town, so you can collect up those trail cards and place them in a trail discard pile.  Make sure to note down how long a trail you have taken up so you remember what distance you have travelled.  Don't place the trail cards back into the trail deck until it is empty.  Then, reshuffle the discarded trail cards to recreate a trail deck.
 
 Here, everyone has gotten past the town...
-![](/images/past_town.jpg)
+![][past_town]
 
 So, we can prune the trail from before the town...
-![](/images/pruning_trail.jpg)
+![][pruning_trail]
 
 And, then shift the remaining cards down to make room.
-![](/images/making_room.jpg)
+![][making_room]
 
 # Ending the Game
 
@@ -95,3 +95,12 @@ If all the virtual people in your wagon die, then you are out of the game.
 To win you must get to Oregon and have no active calamities.  If you get there with calamities, you have to take the necessary number of turns using the "Mend Any Calamity" action to mend them before you can claim victory.  You win the race!
 
 How long a trail it takes to get to Oregon can be adjusted for length of game, but 20 trail cards is a good starting point.  When counting the length of trail, towns and forts do not count in the length.
+
+
+[trails]: /rules/trails.md
+[setup]: /images/setup.jpg
+[parallel_play]: /images/parallel_play.jpg
+[town]: /images/town.jpg
+[past_town]: /images/past_town.jpg
+[pruning_trail]: /images/pruning_trail.jpg
+[making_room]: /images/making_room.jpg
