@@ -1,10 +1,10 @@
-#### River Cards
+# River Cards
 
 When playing a river card, you must ford the river.  Place your marker on the rear part of the card (before crossing the river) and roll the dice to attempt to ford the river.  Follow the directions on the card.  You make your first attempt on the turn in which you play the card.  If you succeed, then move your marker across the river to the front of the card.  If you do not succeed, then you are stuck in the river and remain on the rear of the card until your next turn when you must attempt to ford the river again as your action on that turn.  You are stuck in the river until you ford it; you cannot take any other action until you do.  You cannot even travel back along your trail or use the "Mend Any Calamity" action.
 
 Calamities that allow you to attempt to instantly mend them (or avoid them) you can still do, you just cannot use your action on your turn to mend a calamity.  For example, if a "Broken Tongue" calamity is played on you, you still roll the dice and potentially avoid the calamity; and if the "Measles" calamity is played on you, you can still discard a medicine card and avoid the calamity.  But, if you don't avoid the calamity then you receive it and must ford the river before you can do anything about it (or you lose a turn before you can return to attempting to ford the river in the case of Measles).  This can be very dangerous; be careful with your river crossings -- especially when you are likely to have calamities played on you.
 
-#### Calamity Cards
+# Calamity Cards
 
 When playing a calamity card, you select another player to receive the calamity.  Pick the player before the calamity card is revealed.  See the calamity details section for details on each specific calamity card.
 
@@ -16,7 +16,7 @@ When calamities say that you die if the other, matching calamity card comes up (
 
 The "hunting" calamity has no ill effect and allows you to trade a bullets supply card for a food supply card if you have a bullets supply card and want to do that.  If so, look through the supply discard pile, or failing that the deck, for a food card and then re-shuffle the supply deck if you looked through it.  The "thief" calamity allows the person that played the calamity on you to steal a supply card from you.  You hold up your supply cards and they randomly draw one, unless you have the bullets supply card.  If you have bullets you can instead discard the bullets and the thief does not draw a card from you.
 
-#### Forts / Towns
+# Forts / Towns
 
 Forts and Towns both work exactly the same in this game, despite the fact that they say different things on them.  In all manners, treat them the same.  When you play a fort / town, you place it perpendicular to the trail.  It can be played on any position of trail card and any sort of trail card can be played out of it.  You place it perpendicular because it becomes a part of everyone's trail.  For discovering the town, you receive two free supply cards.  Everyone else that arrives in the town gets one free supply card.  Besides the special "Mend Any Calamity" action that can only be taken when in a town, the free supply card(s) are the other advantage of the town.
 
