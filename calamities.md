@@ -1,5 +1,13 @@
 # Calamity Details
 
+<div style="float:left; max-width:271px"><img src="/images/broken_tongue.jpg" height=200px><img src="/images/broken_axle.jpg"/><img src="/images/broken_wheel.jpg"/></div>
+
+<table><tr><td>When the calamity is played on you, immediately roll the die.  On a 4, 5, or 6 the calamity is discarded and does not affect you.  On a 1, 2, or 3 you receive the calamity and can no longer use the "Forge a New Trail" action.  You have as many turns as you have people in your wagon to mend the calamity or your entire wagon party dies and you are out of the game.  The calamity can be mended by a spare parts supply, or by going back to the last town and using the "Mend Any Calamity" action in a fort / town. </td><td> ![](/images/spare_parts.jpg) </td></tr></table>
+
+![](/images/broken_tongue.jpg) <div style="float: right">![](/images/spare_parts.jpg)</div>
+
+sdfa adsf adsfasd fasdf asdf asdf asdf asdf asdf asdf asdf sdfa adsf adsfasd fasdf asdf asdf asdf asdf asdf asdf asdf sdfa adsf adsfasd fasdf asdf asdf asdf asdf asdf asdf asdf sdfa adsf adsfasd fasdf asdf asdf asdf asdf asdf asdf asdf 
+
 Calamity | Description | Remedy
  --- | --- | ---
 ![](/images/broken_tongue.jpg) ![](/images/broken_axle.jpg) ![](/images/broken_wheel.jpg) | When the calamity is played on you, immediately roll the die.  On a 4, 5, or 6 the calamity is discarded and does not affect you.  On a 1, 2, or 3 you receive the calamity and can no longer use the "Forge a New Trail" action.  You have as many turns as you have people in your wagon to mend the calamity or your entire wagon party dies and you are out of the game.  The calamity can be mended by a spare parts supply, or by going back to the last town and using the "Mend Any Calamity" action in a fort / town. | ![](/images/spare_parts.jpg)
