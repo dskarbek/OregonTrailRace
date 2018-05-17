@@ -47,4 +47,7 @@ We could avoid the need for player markers by simply turning trail cards upside 
 
 ## Resurection
 One of my initial goals was to avoid players being removed from the game.  Currently, it is very rare that this happens with the effect being more that you waste time rather than get removed from the game.  But, with some of the above changes, this might become more common. We can either tune for that, or we could add a resurection rule that says if the entire wagon party dies, you start over with a full wagon some X spaces back on your trail.  Could do "last town" but that might be too short back.  Even just 4 or 5 trail segments back is probably a big enough hit.  You would discard all trail and supply hands and draw new ones, possibly smaller than what you get at the start of a game.
+
+
+
 [rules]: /rules/rules.md
