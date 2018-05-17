@@ -15,7 +15,13 @@ Use the tombstone card and pen to track stats for each player, such as the numbe
 
 ## On Your Turn
 
-Each player plays their own trail in parallel to the other players.  The only exception is Town and Fort cards which are laid down sideways and are part of every player's trail (all players get to use the Town / Fort), more on that later.  On your turn, you may do ONE of the following actions:
+Each player plays their own trail in parallel to the other players.
+![](/images/parallel_play.jpg)
+
+The only exception is Town and Fort cards which are laid down sideways and are part of every player's trail (all players get to use the Town / Fort), more on that later.
+![](/images/town.jpg)
+
+On your turn, you may do ONE of the following actions:
    * Scout the road ahead -- draw a trail card
    * Forge a new trail -- play a trail card
    * Mend a calamity -- play a supply card
@@ -96,6 +102,15 @@ At a cost of one turn for each step both backwards and forwards, this is an expe
 Especially with lots of players the trail and supply cards can run low pretty quickly.  The calamity and supply decks should be replenished by shuffling the discard piles to recreate the decks.  You should wait until the decks are completely empty, unless you need to draw multiple supplies (like when creating a supply stock at a town / fort).  If you need to draw more supplies than the supply deck has, then combine the remaining cards of the deck with the discard pile, shuffle into the new deck and then draw the cards you need.
 
 Trail cards need to be collected by shifting the trails back and picking up the played trail cards once all players have passed that point in the trail and will not be returning to them.  The best way to do this is to trim the trail laid before a town once all players have passed the town.  There's no reason for anyone to travel back before the town, so you can collect up those trail cards and place them in a trail discard pile.  Make sure to note down how long a trail you have taken up so you remember what distance you have travelled.  Don't place the trail cards back into the trail deck until it is empty.  Then, reshuffle the discarded trail cards to recreate a trail deck.
+
+Here, everyone has gotten past the town...
+![](/images/past_town.jpg)
+
+So, we can prune the trail from before the town...
+![](/images/pruning_trail.jpg)
+
+And, then shift the remaining cards down to make room.
+![](/images/making_room.jpg)
 
 # Ending the Game
 
