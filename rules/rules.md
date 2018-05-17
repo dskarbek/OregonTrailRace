@@ -97,7 +97,7 @@ To win you must get to Oregon and have no active calamities.  If you get there w
 How long a trail it takes to get to Oregon can be adjusted for length of game, but 20 trail cards is a good starting point.  When counting the length of trail, towns and forts do not count in the length.
 
 
-[trails]: /rules/trails.md
+[trails]: trails.md
 [setup]: /images/setup.jpg
 [parallel_play]: /images/parallel_play.jpg
 [town]: /images/town.jpg
