@@ -45,6 +45,8 @@ When you place a new trail card, your marker automatically moves to the front of
 
 [Click HERE for more details on the play of the various trail cards, including what exactly happens with Towns and Forts][trails]
 
+[Click HERE for specific details on the various calamity cards that can be drawn][calamities]
+
 ### Mending Calamities
 
 For calamities that can be mended by supply cards, you can play those supply cards as the action on your turn.  The calamity card is placed in a calamity discard pile, and the supply cards are placed in a supply discard pile.  (Some calamities require multiple supply cards.)
@@ -98,6 +100,7 @@ How long a trail it takes to get to Oregon can be adjusted for length of game, b
 
 
 [trails]: trails.md
+[calamities]: calamities.md
 [setup]: images/setup.jpg
 [parallel_play]: images/parallel_play.jpg
 [town]: images/town.jpg
