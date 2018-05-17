@@ -23,4 +23,4 @@ In general, each player plays like they are conducting their own private game of
 # Contributing
 
 
-[rules]: /rules.md
+[rules]: /rules/rules.md
