@@ -6,7 +6,7 @@ Calamities that allow you to attempt to instantly mend them (or avoid them) you 
 
 # Calamity Cards
 
-When playing a calamity card, you select another player to receive the calamity.  Pick the player before the calamity card is revealed.  See the calamity details section for details on each specific calamity card.
+When playing a calamity card, you select another player to receive the calamity.  Pick the player before the calamity card is revealed.  See the [calamity details](calamities.md) section for details on each specific calamity card.
 
 When calamities that say you have "X rounds of play" to resolve the calamity before some consequence happens, you have X turns times the number of virtual people in your wagon.  You start the game with 4, and you lose one whenever a calamity says that you have died.  Some calamities kill instantly, some kill when left un-treated for too long.  You can also loose people when fording rivers.  So, when you are told, "two rounds of play without a food card and you have died of starvation" and you have a full 4 virtual people in your wagon then you have 8 turns to mend that calamity or else your people count goes down to 3.  If you only have one virtual person left in your wagon, you only have 2 turns and if you don't mend it, you are out of the game because all your people have died.  So, the advantage of having more people in your wagon is that it gives you more time to deal with calamities.
 
