@@ -1,6 +1,6 @@
 # Calamity Details
 
-<table><thead><tr><th width=267px>Calamity</th><th>Description</th><th width=276px>Remedy</th></tr></thead><tbody>
+<table><thead><tr><th width=267px>Calamity</th><th>Description</th><th width=138px>Remedy</th></tr></thead><tbody>
  <tr><td><img src="/images/broken_tongue.jpg"><img src="/images/broken_axle.jpg"/><img src="/images/broken_wheel.jpg"/></td>
   <td>When the calamity is played on you, immediately roll the die.  On a 4, 5, or 6 the calamity is discarded and does not affect you.  On a 1, 2, or 3 you receive the calamity and can no longer use the "Forge a New Trail" action.  You have as many turns as you have people in your wagon to mend the calamity or your entire wagon party dies and you are out of the game.  The calamity can be mended by a spare parts supply, or by going back to the last town and using the "Mend Any Calamity" action in a fort / town. </td>
   <td><img src="/images/spare_parts.jpg"/></td></tr>
