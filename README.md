@@ -15,11 +15,10 @@ River cards must be forded by you, but calamity trail cards allow you to play ca
 
 Actions:
    * Draw a trail card
-   * Play a trail card
+   * Play a trail card or finish fording a river
    * Play supply cards to mend a calamity
    * Move one step backwards or forwards again along your already forged trail
-   * Use the action of a fort or town that you are at
-   * Attempt to ford a river (if stuck in one, in which case no other action can be taken)
+   * Use the action of a fort or town that you are at or have in your hand to place.
 
 In general, each player plays like they are conducting their own private game of the original cooperative game, but the
 original rules leave some holes and some parts need to be adapted, so do refer to the full [rules] for more details.

@@ -12,7 +12,20 @@
  <tr><td><img src="images/dead_oxen.jpg"></td>
   <td>You cannot use the "Forge a New Trail" action until it is mended.  If you don't mend the calamity on your next
   turn (however many actions you have) your entire wagon party dies and you are out of the game.  The calamity can be 
-  mended by an oxen supply or as the action of arriving in a town.</td>
+  mended by an oxen supply or as the action of arriving in a town.<br>
+  Oxen can't die twice. If you get two Dead Oxen calamities played on you, you only have to mend the calamity once.
+  The redundant ones can be discarded as having no effect. This includes the Inadequate Grass and Bad Water cards.  You can
+  have both those calamities on you, but when they turn into a "dead oxen" problem, then they are redundant with any
+  other Dead Oxen calamity or calamity that has now killed your oxen. Basically, when you get to your turn, if you have
+  dead oxen you can mend it with one action (whether playing an oxen supply card or using the mend a calamity action of a town).
+  All the dead oxen effects are removed with one shot.<br>
+  In a worst case scenario where you have had two dead oxen cards and a second inadequate grass and a second bad water calamity
+  played on you in one round, then when it comes to your turn, you have size calamity cards on you that each individually
+  cause "dead oxen". But, you discard 5 of them for free and only have to mend the dead oxen problem once.  They simply
+  died of six causes at once, but are replaced just as easily as oxen that die of only a single card.<br>
+  As a final note, the directions on the card are confussing because they specifically refer to 2 oxen dying as if you were
+  counting up a specific number of oxen. Ignore the "2." Your wagon is being pulled by 2 oxen, that's why it says "2."
+  They die and are restored as a unit. It's just either "dead oxen" or "live oxen."</td>
   <td><img src="images/oxen.jpg"></td></tr>
 
  <tr><td><img src="images/inadequate_grass.jpg"></td>
@@ -20,7 +33,9 @@
   "remove a calamity" action in a town.  If the other Inadequate Grass card comes up, both players, including the 
   one that just got the calamity now have dead oxen. The calamity now works exactly like the dead oxen calamity (see 
   above).  You cannot forge new trail and it can be mended with an oxen supply card. Note that the inadequate grass 
-  calamity cannot be mended with an oxen supply card, but once it becomes a dead oxen problem, then it can be.</td>
+  calamity cannot be mended with an oxen supply card, but once it becomes a dead oxen problem, then it can be. If you get
+  both Inadequate Grass calamities played on you, you have redundantly dead oxen. You only need to mend "dead oxen" once
+  to discard both calamities.</td>
   <td></td></tr>
 
  <tr><td><img src="images/bad_water.jpg"></td>
@@ -29,7 +44,8 @@
   including the one that just got the calamity now have dead oxen. The calamity now works exactly like the dead oxen 
   calamity (see above).  You cannot forge new trail and it can be mended with an oxen supply card. Note that the bad 
   water calamity can be mended by clean water, but once it becomes a dead oxen problem then you need an oxen supply
-  card, not a clean water supply card.</td>
+  card, not a clean water supply card. If you are the player that gets the second Bad Water card, then you have redundantly
+  dead oxen. You only need to mend "dead oxen" once to discard both calamities.</td>
   <td><img src="images/clean_water.jpg"></td></tr>
 
  <tr><td><img src="images/measles.jpg"></td>
@@ -39,7 +55,8 @@
   lose your turn), there is no option to avoid it because you have no other actions to use.  Other than the loss of an
   action on that first turn, the Measles has no effect on you until the other Measles card comes up.  If you have not
   mended the calamity by then, both you and the other player lose a wagon member (and therefore an action) permanently.
-  In this case, the other player that just got the Measles does not have a temporarily reduced action count for their first
+  If you have received both Measles cards, then you lose two wagon members.
+  The player that gets the second Measles card does not have a temporarily reduced action count for their first
   turn on top of this. The wagon member with measles has simply died.  At this point the measles cards are discarded.
   You can mend Measles with a Medicine supply, whether on your first turn after receiving it or later.</td>
   <td><img src="images/medicine.jpg"></td></tr>
@@ -47,7 +64,7 @@
  <tr><td><img src="images/typhoid.jpg"></td>
   <td>If you do not cure the Typhoid on the first turn after receiving it, 
   you lose one of the people in your wagon. To mend it, you need 1 clean water supply and 1 medicine supply.
-  After that turn, if you lose a wagon member, discard the calamity card.</td>
+  After that turn you will discard the calamity card (either because you mended it or because its effect is complete).</td>
   <td><img src="images/medicine.jpg">&nbsp;<img src="images/clean_water.jpg"></td></tr>
 
  <tr><td><img src="images/cholera.jpg"></td>
@@ -92,9 +109,10 @@
   <td><img src="images/bullets.jpg"></td></tr> 
 
  <tr><td><img src="images/hunting.jpg"></td>
-  <td>If you have a bullets supply card you can discard it and collect a food supply card from the supply bank (assuming
-  there is one). If you do not have bullets, or don't want to use them, then this calamity has no 
-  effect. You can't trade a supply for bullets. Whether you take advantage or not, discard the calamity card.</td>
+  <td>If you have a bullets supply card you can discard it and place this card in your supply deck to use as exactly as
+  if it were a food supply. But, when it is used, place it in the calamity discard pile, not the supply bank.
+  If you do not have bullets, or don't want to use them, then this calamity has no 
+  effect. You can't trade a supply for bullets.</td>
   <td><img src="images/bullets.jpg"></td></tr> 
 
 </tbody></table>
