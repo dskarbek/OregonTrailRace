@@ -6,6 +6,8 @@ Place the cards perpendicular to the direction of play.
 Supply cards should be set up as a bank. Each kind in its own stack, face up. 
 Trail cards are shuffled and set face down in a stack as the trail deck, and calamity cards likewise as the calamity deck.
 
+![][setup]
+
 Deal 5 trail cards to each player.
 Determine who will go first and then take turns selecting supplies to start with in reverse of the play order.
 Whoever will be going last draws one supply first, then on counter-clockwise to the next to last player, each drawing one supply.
@@ -13,8 +15,6 @@ Go around in this reverse order enough times for everyone to draw the proper num
    * 5+ players: 3 supply cards each
    * 3-4 players: 4 supply cards each
    * 2 players: 6 supply cards each
-
-![Setup]
 
 Use the tombstone card and pen to track how many people are in each person's wagon, and when you start recycling old
 parts of the trail to remember how many trail segments have been removed from each person's trail.
@@ -45,6 +45,8 @@ First person to reach Oregon wins.  This is done when the 20th trail card is for
 In counting 20 trail segments, the forts and towns do not count.
 Make sure you don't count them when purging old trail cards.
 
+![][end]
+
 How long a trail it takes to get to Oregon can be adjusted for desired length of game.
 20 trail cards is a good starting point and typically results in an hour long game for experienced players.
 For a first game, you could do just 10 trail cards.  That would keep it short and allow you to get familiar with the game.
@@ -73,14 +75,14 @@ Don't place the trail cards back into the trail deck until it is empty.
 Then, reshuffle the discarded trail cards to recreate a trail deck.
 When picking up the trail cards, keep count of how long a trail (not counting forts/towns) has been picked up so you can still count what trail length each player has reached.
 
-Here, everyone has gotten past the town...
+Here, everyone has gotten to or past the town...
 ![][past_town]
 
 So, we can prune the trail from before the town...
-![][pruning_trail]
+![][trim_trail]
 
 And, then shift the remaining cards down to make room.
-![][making_room]
+![][shift_back]
 
 # Forging a New Trail
 
@@ -89,8 +91,14 @@ The trail cards must match up, and can be turned either direction to make this h
 The only exception is that the trail cards on either side of a fort or town do not have to match up.
 
 River cards are placed sideways to show that you are stuck in the river until you ford it.
-You get one free attempt at fording the river when you play it.
+
+![][play_river]
+
+You get one free attempt at fording the river when you play it. Each additional attempt needed costs you an action.
 Once the river is forded, turn it to match up with the trail to show that it has been forded.
+
+![][ford_river]
+
 Until you successfully ford a river, you can't forge more trail, move backwards along your trail, or play a town / fort card to use.
 You are stuck in the river. You can still mend calamities.
 Each attempt (after the first one) at fording the river costs an action.
@@ -161,10 +169,19 @@ You can do this even if your wagon is broken or your oxen are dead.
 In other words, you can do this even if you are not in a condition to forge new trail segments.
 
 To move backwards along your trail one step, simply turn the trail card over in place so that the back is showing.
+
+![][step_back_1]
+
 To move forwards again, turn the trail card back over to show the trail again.
 You do not have to re-ford any rivers in your trail. You also do not get to re-play calamities on people.
 You have to do this in order from the tip of your trail on back and then in order back out.
+
+![][step_back_2]
+
 When you turn over the piece of trail just after a fort or town, you are now back at the town and can use its behavior (at the cost of an action of course).
+
+![][step_back_3]
+
 You cannot move more than 4 steps back on your trail.
 
 At a cost of one turn for each step both backwards and forwards, this is an expensive action given that you are in a race.
@@ -182,7 +199,13 @@ If you have a town or fort in your hand, you can place and use it when you have 
 [calamity details]: calamities.md
 [setup]: images/setup.jpg
 [parallel_play]: images/parallel_play.jpg
-[town]: images/town.jpg
+[town]: images/shared_town.jpg
+[end]: images/end.jpg
 [past_town]: images/past_town.jpg
-[pruning_trail]: images/pruning_trail.jpg
-[making_room]: images/making_room.jpg
+[trim_trail]: images/trim_trail.jpg
+[shift_back]: images/shift_back.jpg
+[play_river]: images/play_river.jpg
+[ford_river]: images/ford_river.jpg
+[step_back_1]: images/step_back_1.jpg
+[step_back_2]: images/step_back_2.jpg
+[step_back_3]: images/step_back_3.jpg
