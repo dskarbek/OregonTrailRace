@@ -168,6 +168,8 @@ Each step requires one turn.
 You can do this even if your wagon is broken or your oxen are dead.
 In other words, you can do this even if you are not in a condition to forge new trail segments.
 
+![][one_trail]
+
 To move backwards along your trail one step, simply turn the trail card over in place so that the back is showing.
 
 ![][step_back_1]
@@ -206,6 +208,7 @@ If you have a town or fort in your hand, you can place and use it when you have 
 [shift_back]: images/shift_back.jpg
 [play_river]: images/play_river.jpg
 [ford_river]: images/ford_river.jpg
+[one_trail]: images/one_trail.jpg
 [step_back_1]: images/step_back_1.jpg
 [step_back_2]: images/step_back_2.jpg
 [step_back_3]: images/step_back_3.jpg
