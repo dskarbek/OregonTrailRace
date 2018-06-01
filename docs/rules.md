@@ -75,6 +75,8 @@ Don't place the trail cards back into the trail deck until it is empty.
 Then, reshuffle the discarded trail cards to recreate a trail deck.
 When picking up the trail cards, keep count of how long a trail (not counting forts/towns) has been picked up so you can still count what trail length each player has reached.
 
+Players can also voluntarily discard trail cards from their hand at any point.
+
 Here, everyone has gotten to or past the town...
 ![][past_town]
 
@@ -186,7 +188,7 @@ When you turn over the piece of trail just after a fort or town, you are now bac
 
 You cannot move more than 4 steps back on your trail.
 
-At a cost of one turn for each step both backwards and forwards, this is an expensive action given that you are in a race.
+At a cost of one action for each step both backwards and forwards, this is an expensive action given that you are in a race.
 But, if your wagon breaks down out on the trail and you have no supplies to fix it, your only choice may be to hope that you are able to walk back to that last town and get help.
 Note, that you can mend a calamity such as a broken wagon in a town even if you had to walk back to the town and the wagon is theoretically broken down at the end of your trail.
 The calamity is fixed the moment you fix it in town, not once you walk back to the wagon.
