@@ -20,7 +20,7 @@
   dead oxen you can mend it with one action (whether playing an oxen supply card or using the mend a calamity action of a town).
   All the dead oxen effects are removed with one shot.<br>
   In a worst case scenario where you have had two dead oxen cards and a second inadequate grass and a second bad water calamity
-  played on you in one round, then when it comes to your turn, you have size calamity cards on you that each individually
+  played on you in one round, then when it comes to your turn, you have six calamity cards on you that each individually
   cause "dead oxen". But, you discard 5 of them for free and only have to mend the dead oxen problem once.  They simply
   died of six causes at once, but are replaced just as easily as oxen that die of only a single card.<br>
   As a final note, the directions on the card are confussing because they specifically refer to 2 oxen dying as if you were
@@ -62,7 +62,7 @@
   <td><img src="images/medicine.jpg"></td></tr>
 
  <tr><td><img src="images/typhoid.jpg"></td>
-  <td>If you do not cure the Typhoid on the first turn after receiving it, 
+  <td>If you do not cure the Typhoid calamity on the first turn after receiving it, 
   you lose one of the people in your wagon. To mend it, you need 1 clean water supply and 1 medicine supply.
   After that turn you will discard the calamity card (either because you mended it or because its effect is complete).</td>
   <td><img src="images/medicine.jpg">&nbsp;<img src="images/clean_water.jpg"></td></tr>
@@ -91,7 +91,7 @@
  <tr><td><img src="images/extreme_cold.jpg"></td>
   <td>If you do not mend this calamity on your next turn after receiving it, 
   you lose one of the people in your wagon. To mend it, you need a clothing supply.
-  After that turn, mark the wagon member dead and discard the calamity card.</td>
+  After that turn, if not mended, mark the wagon member dead and discard the calamity card.</td>
   <td><img src="images/clothes.jpg"></td></tr>
 
  <tr><td><img src="images/broken_arm.jpg"></td>
@@ -109,7 +109,7 @@
   <td><img src="images/bullets.jpg"></td></tr> 
 
  <tr><td><img src="images/hunting.jpg"></td>
-  <td>If you have a bullets supply card you can discard it and place this card in your supply deck to use as exactly as
+  <td>If you have a bullets supply card you can discard it and place this card in your supply deck to use as
   if it were a food supply. But, when it is used, place it in the calamity discard pile, not the supply bank.
   If you do not have bullets, or don't want to use them, then this calamity has no 
   effect. You can't trade a supply for bullets.</td>

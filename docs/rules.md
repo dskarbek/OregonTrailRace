@@ -166,7 +166,7 @@ If you fail to mend the calamity by trading, it doesn't count as an action.
 # Moving on Your Trail
 
 As long as you are not stuck in the middle of fording a river, you can move backwards along the trail you have created, and then move forward again to the front of your trail.
-Each step requires one turn.
+Each step requires one action.
 You can do this even if your wagon is broken or your oxen are dead.
 In other words, you can do this even if you are not in a condition to forge new trail segments.
 
